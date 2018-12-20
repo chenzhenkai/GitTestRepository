@@ -7,5 +7,6 @@ package com.maven.test;
 public interface TestGit {
 	public void testGit();
 	public void f1();
+	public void f2();
 
 }
